@@ -1,2 +1,2 @@
-# C-Test
-this is my C# project test space
+# C#-Test
+这个仓库用于存放我在学习过程中编写的脚本
